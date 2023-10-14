@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038375563875",
+    "project_id": "sph-car-servicing",
+    "storage_bucket": "sph-car-servicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038375563875:android:43e88be948694f96c3be56",
+        "android_client_info": {
+          "package_name": "com.example.sphcarservicing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038375563875-num4q9p8dd773mole2i13pu47j5gauca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVM1MMlerdYgw9iRtnJx5ge1yT9sQY32M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038375563875-num4q9p8dd773mole2i13pu47j5gauca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

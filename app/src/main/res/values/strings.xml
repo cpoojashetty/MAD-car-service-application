@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SPH Car Servicing</string>
+    <string name="txtWelcome">Welcome</string>
+    <string name="viewEditProfile">View / Edit Profile</string>
+    <string name="imgDescription">Image Description</string>
+    <string name="userPlaceholder">Username Placeholder</string>
+    <string name="btnSearchSP">Search Service Provider</string>
+    <string name="btnBookApt">Book Appointment</string>
+    <string name="btnViewApt">View Appointments</string>
+    <string name="btnViewHistory">View Service History</string>
+    <string name="btnLogout">Logout</string>
+    <string name="txtHello">Hello Placeholder</string>
+    <string name="btnSave">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="select_services_from_below_available_in_the_list">Select services from below available in the list</string>
+    <string name="select_new_services_from_below_available_in_the_list">Select new services from below available in the list</string>
+    <string name="upcoming_appointments">Upcoming Appointments</string>
+    <string name="view_existing_service_history">Past Service History</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="regstration">Registration</string>
+    <string name="registration">Registration for Service Providers</string>
+    <string name="create_edit_add_user">Create / Edit / Add User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="view_edit_appointment">View / Edit Appointment</string>
+    <string name="add_view_edit_service_history">View / Edit Service History</string>
+    <string name="generate_service_report">Generate Service Report</string>
+    <string name="notification">Send Notification</string>
+    <string name="add_user">Add User</string>
+    <string name="check_it">Check it</string>
+</resources>
